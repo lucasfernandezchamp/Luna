@@ -1,0 +1,19 @@
+Operational Damage Limits Notice (ODLN) for Aircraft Pallet Net
+
+Location    Component           Code    ULD may not be used if any of the conditions below are exceeded
+-------------------------------------------------------------------------------------------------------
+Braid/Rope  General             GN      No contamination
+Braid/Rope  Mesh + Border-Cords MN      No severed or partly severed cords
+                                        No cut or broken strands
+                                        No more than slight abrasion
+Braid/Rope  Lashing-Lines       LN      No missing lashing lines
+                                        No lashing lines shortened beyond that required for the pallet load height
+Hardware    Attachment Fittings FN      No missing attachment fittings
+                                        No distortion preventing normal use
+                                        No corrosion preventing normal use
+Hardware    Adjusting Hooks     HN      No more than one missing from any net face
+                                        (if more, adjust using hooks on other three faces)
+Labels/Tags TSO                 TM      In place and legible
+                                        Expiry date not exceeded
+Special Requirements                    Owner Airline/Manufacturer Requirements:
+Compatible Pallets                      Certification code of compatible pallet:

@@ -1,0 +1,45 @@
+Operational Damage Limits Notice (ODLN) for Certified Standard Pallets
+
+Location                 Component           Code    ULD may not be used if any of the conditions below are exceeded
+--------------------------------------------------------------------------------------------------------------------
+Base                     Sheet               SB      No more than 0.2 inch / 5 mm sized indentations
+                                                     No more than 0.5 sq. inch / 3.5 sq. cm sized holes (1 ea.) within 1550 sq. inch / 1 sq. m
+                                                     No more than 4 inch / 100 mm sized tears (1 ea.) within 1550 sq. inch / 1 sq. m
+                         Extrusion           EB      No broken or missing parts
+                                                     No penetration into hollow chamber
+                                                     No more than 1 inch / 25 mm sized cracks (1 ea.) within 40 inch / 1 m
+                                                     No more than 1 inch / 25 mm sized gouges (1 ea.) within 40 inch / 1 m
+                                                     No more than 1.25 inch / 32 mm sized bowed, warped or deflected extrusion
+                         Tie-Down Track      TB      No less than 3 undamaged tie-down points adjacent to the original stud location
+                                                     No loose or damaged attachment to the container structure
+                         Fastener            FB      No more than 2 adjacent broken, loose or missing rivets (except corners)
+                                                     No more than 3 broken, loose or missing rivets within 80 inch / 2 m (except corners)
+                         Corner              CB      No deformed, broken or missing corner connections
+         
+Fabric Door              Curtain             CD      No limitations
++                        Hardware            LD      No broken, loose or missing hardware / fittings        
+Net / Strap              Webbing             WD      No damaged / worn-out restraint straps
+                                                     No broken / cut horizontal filler straps
+                                                     No damaged / missing stitching
+         
+Panels                   Sheet               SP      No more than 4 inch / 100 mm sized holes/cracks (1 ea.)
+                                                     No less than 2 inch / 50 mm between damage and fasteners [of stiffener extrusions]
+                                                     No less than 4 inch / 100 mm between damage and fasteners [of frame extrusions]
+                                                     No deflection beyond the max. IATA contour
+                         Extrusion           EP      No more than 4 inch / 100 mm sized holes/cracks (1 ea.)
+                                                     No less than 2 inch / 50 mm between damage and fasteners of stiffener extrusions
+                                                     No less than 4 inch / 100 mm between damage and fasteners of frame extrusions
+                                                     No broken, cracked, fractured or crushed extrusions / stiffener extrusions
+                                                     No deflection beyond the max. IATA contour
+                         Fastener            FP      No more than 2 broken, loose or missing fasteners per panel / per extrusion
+                                                     No less than 6 inch / 155 mm between broken, loose or missing rivets
+         
+Corner Connections       Gusset              CP      No broken, cracked, bent or loose corner gussets
+                         Welding             CP      No cracks in original weldings (for welded frames only)
+         
+Others                   Webbing             WP      No damaged, worn-out or missing pull-straps
+                         TSO                 TM      In place and legible
+
+Special Requirements:                       When in doubt refer to CMM XXXXX
+
+Notice for operational use ONLY. Serviceability NOT affected when missing or illegible.

@@ -1,0 +1,17 @@
+Operational Damage Limits Notice (ODLN) for Aircraft Pallet
+
+Location    Component           Code    ULD may not be used if any of the conditions below are exceeded
+-------------------------------------------------------------------------------------------------------
+Pallet      Sheet               SB      No more than 2 cracks, holes or indentations with no more than 8 inch/200 mm of size
+Pallet      Extrusion           EB      No broken or missing parts
+                                        No holes penetrating into hollow chamber
+                                        No more than 1 inch/25 mm sized cracks in any direction
+                                        No more than 1 inch/25 mm sized gouges
+                                        No more than 1 inch/25.4 mm bowed, warped or deflected extrusion
+Pallet      Tie-Down Track      TB      No broken, cracked or deformed Tie-Down Lips
+Pallet      Fastener            FB      No more than 5 broken, loose or missing fasteners
+                                        No less than 20 inch/50 cm between broken, loose or missing fasteners
+Pallet      Corner Connection   CB      No deformed, broken or missing corner connections
+Others      TSO                 TM      In place and legible
+Special Requirements                    Owner Airline/Manufacturer Requirements:
+Compatible Pallet Nets                  Certification code of compatible pallet net:

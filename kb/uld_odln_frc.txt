@@ -1,0 +1,8 @@
+Operational Damage Limits Notice (ODLN) for Fire Resistant Container
+
+Location    Component   Code    Container may not be used as FRC if any of the conditions below are exceeded
+------------------------------------------------------------------------------------------------------------
+Container   All         NA      No damage that results in ADDITIONAL air flow into the container, which can be caused by punctures, tears, cracks or missing fasteners
+Special Requirements:           Container has lost its fire resistant capability
+                                'F' graphic symbol has to be made invalid
+                                Container can still be used as standard aircraft container if damage limits for standard aircraft container are not exceeded

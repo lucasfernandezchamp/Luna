@@ -1,0 +1,37 @@
+Operational Damage Limits Notice (ODLN) for Standard Certified Aircraft Container
+
+Location        Component           Code    ULD may not be used if any of the conditions below are exceeded
+------------------------------------------------------------------------------------------------------------
+Base            Sheet               SB      No more than 2 cracks, holes, or indentations with no more than 8 inch/200 mm of size
+                Extrusion           EB      No broken or missing parts
+                                            No holes penetrating into hollow chamber
+                                            No more than 1 inch/25 mm sized cracks in any direction
+                                            No more than 1 inch/25 mm sized gouges
+                                            No more than 1 inch/25.4 mm bowed, warped, or deflected extrusion
+                Tie-Down Track      TB      No broken, cracked, or deformed Tie-Down Lips
+                                            No loose or damaged attachment to the container structure
+                Fastener            FB      No more than 5 broken, loose, or missing fasteners
+                                            No less than 20 inch/50 cm between broken, loose, or missing fasteners
+                Corner              CB      No deformed, broken, or missing corner connections
+
+Fabric Door     Curtain             CD      No more than 2 holes with no more than 4 inch/100 mm of size
+                Lock                LD      No broken, loose, or missing Hardware/Locks
+                Webbing             WD      No damaged/worn-out straps
+                                            No damaged/missing stitching
+
+Panels          Sheet               SP      No more than 3 holes/cracks with no more than 4 inch/100 mm of size
+(including                                  No less than 4 inch/100 mm between holes/cracks
+Door)                                       No tears/holes within 2 inch/50 mm of frame extrusions
+                                            No more than 1 inch/25.4 mm deflection of roof sheet
+                Extrusion           EP      No more than 1 inch/25 mm sized cracks in any direction
+                                            No more than 1 inch/25.4 mm deflection
+                                            No broken, fractured, or crushed stiffeners
+                Fastener            FP      No more than 5 broken, loose, or missing fasteners
+                                            No less than 4 inch/100 mm between broken, loose, or missing fasteners
+
+Corner          Gusset              CP      No broken, cracked, bent, or loose corner gussets
+Connections     Welding             CP      No cracks in weldings (for welded frames only)
+
+Others          Webbing             WP      No damaged, worn-out, or missing pull-straps
+                TSO                 TM      In place and legible
+Special Requirements:                       Owner Airline/Manufacturer Requirements:

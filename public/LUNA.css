@@ -1,0 +1,12 @@
+/* .rounded-full {
+        border-radius: 0px !important;
+    } */
+
+    .w-\[200px\] {
+        width: 300px !important;
+      }
+
+      .bg-primary {
+        background: linear-gradient(#59b2df 20%, #0a7ac2 80%) !important;
+
+      }
